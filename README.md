@@ -68,8 +68,8 @@ To analyze employee attrition data across various dimensions such as age, gender
 
 ## Conclusion
 The HR analytics dashboard reveals that attrition is largely concentrated among young employees in low-paying roles within the R&D and Sales departments. Key contributing factors include:
-	-	Low starting salary
-	-	Early-career stage
+  - Low starting salary
+   Early-career stage
 	-	Specific job functions with limited growth or high pressure
 
 ## Recommendation
