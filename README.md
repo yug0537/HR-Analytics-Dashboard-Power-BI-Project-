@@ -42,11 +42,11 @@ To analyze employee attrition data across various dimensions such as age, gender
   - Age Groups
   - Years at Company Buckets
 -  Data Modeling in Power BI:
-  -  efined relationships and calculated key measures like:
-  -  Attrition Count
-  -  Attrition Rate (%)
-  -  Avg Salary
-  -  Avg Age
-  -  Years at Company
+  - defined relationships and calculated key measures like:
+  - Attrition Count
+  - Attrition Rate (%)
+  - Avg Salary
+  - Avg Age
+  - Years at Company
 
 
