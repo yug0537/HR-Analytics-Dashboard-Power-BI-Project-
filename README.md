@@ -29,4 +29,7 @@ To analyze employee attrition data across various dimensions such as age, gender
 - Attrition by Years at Company
   - Insight: Highest attrition in the first 2 years
   - Purpose: Helps HR focus on early retention strategies.
+ 
+## Dashboard Interaction
+
 
