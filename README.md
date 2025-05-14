@@ -12,7 +12,7 @@ To analyze employee attrition data across various dimensions such as age, gender
 - Attrition Count(Number of employees who have left the company: 237
 - Attrition Rate (%) : 16.1%
   - Formula: (Attrition Count / Total Employees) × 100
-	- Purpose: Measures the percentage of employees leaving the company. A crucial metric for workforce stability.
+  - Purpose: Measures the percentage of employees leaving the company. A crucial metric for workforce stability.
 - Average Age: 37 years
   - Purpose: Gives insight into the age distribution of the workforce and helps identify which age group has higher attrition.
 - Average Salary: ₹6.5K/month
@@ -21,12 +21,12 @@ To analyze employee attrition data across various dimensions such as age, gender
 - Attrition by Department
 - Attrition by Job Role
   - Laboratory Technician (62)
-	- Sales Executive (57)
+  - Sales Executive (57)
   - Research Scientist (47)
 - Attrition by Age Group: 26–35 years (116 employees)
 - Attrition by Salary Slab: Up to ₹5K/month (163 employees)
   - Purpose: Reveals that lower-paid employees are more likely to leave.
 - Attrition by Years at Company
   - Insight: Highest attrition in the first 2 years
-	- Purpose: Helps HR focus on early retention strategies.
+  - Purpose: Helps HR focus on early retention strategies.
 
