@@ -52,6 +52,10 @@ To analyze employee attrition data across various dimensions such as age, gender
    - used a dark-themed, professional design.
    - Incorporated slicers (Department, Gender).
    - Created intuitive visuals: bar charts, donut charts, line graphs, and KPIs.
+ 
+## Dashboard View
+<img width="1283" alt="Screenshot 2025-05-14 at 11 58 05" src="https://github.com/user-attachments/assets/5be9efc1-f1fe-4002-ba1a-98f23eedc56d" />
+
 
 
 
