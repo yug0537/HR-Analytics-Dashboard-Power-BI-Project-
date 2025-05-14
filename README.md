@@ -34,7 +34,19 @@ To analyze employee attrition data across various dimensions such as age, gender
 <a href="https://github.com/yug0537/HR-Analytics-Dashboard-Power-BI-Project-/blob/main/HR_Analytics_dashboard.pbix">Dashboard<a/>
 
 ## Process
-Data Acquisition:
-	•	Used the HR_Analytics.csv dataset containing employee demographic and job information, attrition status, salary, department, and years at the company.
+- Data Acquisition: Used the HR_Analytics.csv dataset containing employee demographic and job information, attrition status, salary, department, and years at the company.
+- Data Cleaning & Preparation:
+  - Removed nulls and inconsistencies.
+  - Created calculated columns such as:
+  - Salary Slab
+  - Age Groups
+  - Years at Company Buckets
+-  Data Modeling in Power BI:
+  -  efined relationships and calculated key measures like:
+  -  Attrition Count
+  -  Attrition Rate (%)
+  -  Avg Salary
+  -  Avg Age
+  -  Years at Company
 
 
