@@ -31,5 +31,6 @@ To analyze employee attrition data across various dimensions such as age, gender
   - Purpose: Helps HR focus on early retention strategies.
  
 ## Dashboard Interaction
+<a href="https://github.com/yug0537/HR-Analytics-Dashboard-Power-BI-Project-/blob/main/HR_Analytics_dashboard.pbix">Dashboard<a/>
 
 
