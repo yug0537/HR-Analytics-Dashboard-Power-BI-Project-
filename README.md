@@ -36,17 +36,17 @@ To analyze employee attrition data across various dimensions such as age, gender
 ## Process
 - Data Acquisition: Used the HR_Analytics.csv dataset containing employee demographic and job information, attrition status, salary, department, and years at the company.
 - Data Cleaning & Preparation:
-  - Removed nulls and inconsistencies.
-  - Created calculated columns such as:
-  - Salary Slab
-  - Age Groups
+   - Removed nulls and inconsistencies.
+   - Created calculated columns such as:
+   - Salary Slab
+   - Age Groups
   - Years at Company Buckets
 -  Data Modeling in Power BI:
-  - defined relationships and calculated key measures like:
-  - Attrition Count
-  - Attrition Rate (%)
-  - Avg Salary
-  - Avg Age
-  - Years at Company
+   - defined relationships and calculated key measures like:
+   - Attrition Count
+   - Attrition Rate (%)
+   - Avg Salary
+   - Avg Age
+   - Years at Company
 
 
