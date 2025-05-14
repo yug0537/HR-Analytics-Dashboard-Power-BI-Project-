@@ -56,6 +56,27 @@ To analyze employee attrition data across various dimensions such as age, gender
 ## Dashboard View
 <img width="1283" alt="Screenshot 2025-05-14 at 11 58 05" src="https://github.com/user-attachments/assets/5be9efc1-f1fe-4002-ba1a-98f23eedc56d" />
 
+## Key Insights
+- Overall Attrition Rate: 16.1% (237 out of 1470 employees).
+- Age Group Most Affected: 26–35 years (116 attritions), followed by 18–25.
+- Employees earning ≤ ₹5K/month account for ~69% of total attrition.
+- Highest attrition from Life Sciences (38%) and Medical (27%) backgrounds.
+- Research & Development shows high attrition, especially in Laboratory Technicians (62),Research Scientists (47)
+- Job Roles with High Turnover: Sales Executive (57),Sales Representative (33)
+- Male: 140 | Female: 79 — indicating a broader attrition challenge across both genders.
+- Majority of attrition occurs within the first 2 years, highlighting potential onboarding or early engagement issues.
+
+## Conclusion
+The HR analytics dashboard reveals that attrition is largely concentrated among young employees in low-paying roles within the R&D and Sales departments. Key contributing factors include:
+	-	Low starting salary
+	-	Early-career stage
+	-	Specific job functions with limited growth or high pressure
+
+## Recommendation
+Enhance retention through salary restructuring, mentorship programs, and career path visibility.
+	-	Focus on early engagement and employee development, especially within the first 2 years.
+	-	Conduct department-specific retention reviews, especially in R&D and Sales.
+
 
 
 
