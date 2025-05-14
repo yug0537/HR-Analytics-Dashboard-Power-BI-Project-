@@ -33,4 +33,8 @@ To analyze employee attrition data across various dimensions such as age, gender
 ## Dashboard Interaction
 <a href="https://github.com/yug0537/HR-Analytics-Dashboard-Power-BI-Project-/blob/main/HR_Analytics_dashboard.pbix">Dashboard<a/>
 
+## Process
+Data Acquisition:
+	•	Used the HR_Analytics.csv dataset containing employee demographic and job information, attrition status, salary, department, and years at the company.
+
 
