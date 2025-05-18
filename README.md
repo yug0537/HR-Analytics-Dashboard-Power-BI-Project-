@@ -11,7 +11,7 @@ To analyze employee attrition data across various dimensions such as age, gender
 - Total Employees : 1,470
 - Attrition Count(Number of employees who have left the company: 237
 - Attrition Rate (%) : 16.1%
-  - Formula: (Attrition Count / Total Employees) × 100
+  - Formula: SUM(HR_Analytics[Attrition Count])/SUM(HR_Analytics[EmployeeCount])
   - Purpose: Measures the percentage of employees leaving the company. A crucial metric for workforce stability.
 - Average Age: 37 years
   - Purpose: Gives insight into the age distribution of the workforce and helps identify which age group has higher attrition.
